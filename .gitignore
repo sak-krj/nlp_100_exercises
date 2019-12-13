@@ -1,0 +1,5 @@
+data/*
+!.gitkeep
+.ipynb_checkpoints
+hightemp0*
+col*
