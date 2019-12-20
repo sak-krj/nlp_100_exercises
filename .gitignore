@@ -1,4 +1,5 @@
 data/*
+output/
 !.gitkeep
 .ipynb_checkpoints
 hightemp0*
