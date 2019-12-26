@@ -14,5 +14,5 @@ services:
       - .:/home/jovyan/work
     ports:
       - 8888:8888
-    links:
-      - db:mongodb
+    depends_on:
+      - db
